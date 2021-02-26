@@ -1,7 +1,7 @@
-This repo is a fork of [https://github.com/atomicptr/Cyberduck-Favorites](https://github.com/atomicptr/Cyberduck-Favorites).
-The original has been archived and development has stopped.
-It needed a path changed in a configuration file to allow it to work with newer Cyberduck releases.
-My intention is not to continue development of this. I just wanted it to work for me.
+This repo is a fork of [https://github.com/atomicptr/Cyberduck-Favorites](https://github.com/atomicptr/Cyberduck-Favorites).  
+The original has been archived and development has stopped.  
+It needed a path changed in a configuration file to allow it to work with newer Cyberduck releases.  
+My intention is not to continue development of this. I just wanted it to work for me.  
 
 Cyberduck favorites
 ====================
